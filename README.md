@@ -1,6 +1,6 @@
 ## terraform-aks-azure
 
-
+```
 module "aks" {
     source                  = "ortacu/aks/azure"
     resource_group_name     = "example-resources"
